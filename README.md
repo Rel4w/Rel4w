@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 I’m currently working on: a conversational AI assistant in Python<br>I’m looking to collaborate on: open-source and AI chatbot projects<br>I’m looking for help with: NLP and conversational design<br>I’m currently learning: natural language processing and AI chatbot design<br>Ask me about: Spring Boot, Next.js and full-stack development<br>Fun fact: I run a fully customized Linux environment
 
 
@@ -15,3 +15,4 @@ I’m currently working on: a conversational AI assistant in Python<br>I’m loo
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://web.facebook.com/jonathan.485909/)
