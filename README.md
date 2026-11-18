@@ -30,15 +30,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Markdown-Dark.svg">
-  <br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg">
-  <img width="40" src="https://cdn.simpleicons.org/thymeleaf/4CAF50">
 </div>
 
 <br>
@@ -46,16 +37,13 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+  <a href="https://github.com/Rel4w"><img height="180" src="https://github-stats-extended.vercel.app/api?username=Rel4w&rank_icon=github&theme=transparent&title_color=88C0D0&icon_color=5E81AC&text_color=6B8CA8&hide_border=true"></a> <a href="https://github.com/Rel4w"><img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=Rel4w&layout=compact&langs_count=8&theme=transparent&count_private=true&title_color=88C0D0&icon_color=5E81AC&text_color=6B8CA8&hide_border=true"></a>
 
-![](https://streak-stats.demolab.com/?user=Rel4w&theme=transparent&hide_border=true&ring=88C0D0&fire=5E81AC&currStreakNum=88C0D0&sideNums=88C0D0&currStreakLabel=5E81AC&sideLabels=5E81AC&dates=6B8CA8)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rel4w&theme=transparent&title_color=88C0D0&icon_color=5E81AC&text_color=6B8CA8&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
